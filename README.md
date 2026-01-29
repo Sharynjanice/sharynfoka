@@ -3,7 +3,7 @@
  Étudiante en informatique | 
  Développement informatique |
  En apprentissage constant, motivée par les projets concrets
-
+ 
 ## Technologies
 - HTML / CSS
 - PHP / MySQL
