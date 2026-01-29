@@ -1,18 +1,18 @@
-#  Bonjour, moi c’est Sharyn
+Hello, I'm Sharyn!  
+Computer Science student | Web Development | Always learning and motivated by hands-on projects  
 
- Étudiante en informatique | 
- Développement informatique |
- En apprentissage constant, motivée par les projets concrets
- 
-## Technologies
-- HTML / CSS
-- PHP / MySQL
-- javascript
+Passionate about books and technology  
 
-##  Projets
- Retrouvez mes projets principaux épinglés sur mon profil
+Technologies  
+- HTML / CSS  
+- PHP / MySQL  
+- JavaScript  
 
-##  Me contacter
-- LinkedIn : https://www.linkedin.com/in/sharyn-foka
-- Email : sharynjace98@gmail.com
+Projects  
+Check out my main projects pinned on my profile  
 
+Currently looking for a 2 to 6-month internship to gain real-world experience and grow as a developer  
+
+Contact me  
+LinkedIn: https://www.linkedin.com/in/sharyn-foka  
+Email: sharynjace98@gmail.com
