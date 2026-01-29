@@ -1,7 +1,7 @@
 #  Bonjour, moi c’est Sharyn
 
- Étudiante en informatique  
- Développement informatique 
+ Étudiante en informatique | 
+ Développement informatique |
  En apprentissage constant, motivée par les projets concrets
 
 ## Technologies
